@@ -23,3 +23,7 @@ Prior Arduino sheets do exclude SDA and SCL pins — rather, utilize simple pins
 
 For a current "R3" Arduino board, (for example, the Arduino Leonardo or later Arduino Uno and Mega sheets),
 the wiring ought to look like this:
+
+
+Reference
+https://learn.adafruit.com/piccolo/wiring
