@@ -1,0 +1,6 @@
+Building process:
+
+The basic component is arduino nano where the code goes has to be connected to the sound sensor 5 volts
+and then the addressable leds has to be connected to the sound sensor for that either we can them with female to male header pins
+to connect to the sound sensor.and the sound sensor sense the sound and plays the leds and the leds colours changes as well based
+on the sound input.
